@@ -77,7 +77,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/flowers-frame_23-2148133670.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/flowers-frame_23-2148133670.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -102,7 +102,7 @@ export default function LandingPage() {
           description: "Fast and fresh service every single day.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/trimming_23-2148013619.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/trimming_23-2148013619.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -251,7 +251,7 @@ export default function LandingPage() {
           button: {
             text: "Subscribe",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/flowers-frame_23-2148133670.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flowers-frame_23-2148133670.jpg?_wi=2",
           imageAlt: "fresh flowers delivery service",
         },
         {
@@ -268,7 +268,7 @@ export default function LandingPage() {
           button: {
             text: "Subscribe",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/trimming_23-2148013619.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/trimming_23-2148013619.jpg?_wi=2",
           imageAlt: "fresh flowers delivery service",
         },
       ]}
